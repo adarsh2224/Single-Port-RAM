@@ -13,3 +13,10 @@ This is a Simple SRAM Project
 ## Tools Used 
 * EDA Playground
 * Modelsim
+
+## About SRAM
+* SRAM (Static Random Access Memory) is a type of semiconductor memory used for fast data storage and access in digital systems.
+* SRAM is widely used in:
+-> Cache memory
+-> Buffers
+-> High-speed temporary storage.
